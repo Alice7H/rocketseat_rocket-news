@@ -38,4 +38,8 @@ font-weight: 400, 500, 700
 
 Você pode encontrar a fonte no [Google Fonts](https://fonts.google.com/)
 
-Obs: A fonte Spartan não foi encontrada no Google Fonts, por isso foi substituída pela fonte `League Spartan`
+Obs:
+
+- A fonte Spartan não foi encontrada no Google Fonts, por isso foi substituída pela fonte `League Spartan`
+
+- A aplicação não está salvando os e-mails em um banco de dados. Apenas foi usado o [jsonplaceholder](https://jsonplaceholder.typicode.com).
